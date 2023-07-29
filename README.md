@@ -1,6 +1,6 @@
 ### Gyazo Screenshot Importer
-[![License](https://img.shields.io/github/license/5vx/gyazo-exporter)](https://github.com/5vx/gyazo-exporter/LICENSE)
-[![Downloads](https://img.shields.io/github/downloads/5vx/gyazo-exporter/latest/total?color=981bfe)](https://github.com/5vx/gyazo-exporter/releases)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Downloads](https://img.shields.io/github/downloads/5vx/gyazo-exporter/main.py?color=981bfe)](https://github.com/5vx/gyazo-exporter/releases)
 [![Version](https://img.shields.io/github/v/release/5vx/gyazo-exporter?color=7a39fb)](https://github.com/5vx/gyazo-exporter/releases/latest)
 
 # **Ethos**
