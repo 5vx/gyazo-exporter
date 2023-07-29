@@ -1,4 +1,8 @@
 ### Gyazo Screenshot Importer
+[![License](https://img.shields.io/github/license/5vx/gyazo-exporter)](https://github.com/5vx/gyazo-exporter/blob/main/LICENSE)
+[![Downloads](https://img.shields.io/github/downloads/5vx/gyazo-exporter/latest/total?color=981bfe)](https://github.com/5vx/gyazo-exporter/releases)
+[![Version](https://img.shields.io/github/v/release/5vx/gyazo-exporter?color=7a39fb)](https://github.com/5vx/gyazo-exporter/releases/latest)
+
 # **Ethos**
 Outputs all screenshots/videos stored on a Gyazo session token's account regardless of whether you have Gyazo Pro or not, which is the scummy business model they use
 # **Usage**
