@@ -1,5 +1,7 @@
 ### Gyazo Screenshot Importer
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+![GitHub all releases](https://img.shields.io/github/downloads/5vx/gyazo-exporter/total)
+
 
 
 # **Ethos**
